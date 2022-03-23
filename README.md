@@ -1,0 +1,2 @@
+# Pokedex
+Poke api + Angular
